@@ -1,98 +1,110 @@
-![logo](https://github.com/rahkaf/Facial-Recognition-Model-using-CNN/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Fakhar Imam Zikri</h1>
-<h3 align="center">AI/ML Enthusiast | Data Scientist in the Making | Passionate Problem Solver</h3>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=rahkaf&label=Profile%20views&color=0e75b6&style=flat" alt="fakhar-imam" /> 
+<!-- Banner and Welcome Animation -->
+<p align="center">
+  <img src="https://github.com/rahkaf/Facial-Recognition-Model-using-CNN/blob/main/banner.png" width="100%" alt="Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0091FF&center=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Fakhar+Imam+Zikri;AI%2FML+Enthusiast+|+Data+Scientist+in+the+Making;Passionate+Problem+Solver" alt="Animated Title"/>
 </p>
 
-- 🔭 I’m currently working on **AI/ML projects** including:
-  - OpenCV-based **Facial Recognition Model (CNN)**
-  - **Flight Delay Prediction** competition project
-  - **XBOW**, integrating GPT-4o API
-  - **LMS Chatbot** for student assistance  
+<!-- Coding GIF Animation (Right-Align) -->
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-- 🌱 I’m learning and improving in **PyTorch, TensorFlow, FastAPI, Streamlit, Pandas, NumPy, and Cloud Deployment (Docker, Hugging Face Spaces).**
-
-- 👨‍💻 Check out all my projects here: [GitHub Portfolio](https://github.com/rahkaf)
-
-- 🤝 I’m looking to collaborate on **AI/ML, data science, and automation projects** that create real-world impact.
-
-- 📚 Academic focus: **BSCS** with specialization in **AI/ML** and experience as a **Data Science & ML Intern at BeeNeural Pvt Ltd.**
-
-- 📫 Reach me at **rkfmami@gmail.com**
-
-- ⚡ Fun fact: **When I see a river, I zone out like I’m being hypnotized and go into deep thoughts.** 🌊
-
----
-
-<h3 align="left">Connect with me:</h3>
+<!-- Profile View Counter with Thumbs-up Animation-->
 <p align="left">
-<a href="https://www.linkedin.com/in/fakhar-imam-zikri" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fakhar imam" height="30" width="40" />
-</a>
-<a href="https://instagram.com/fakhar.imam_" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fakhar.imam_" height="30" width="40" />
-</a>
+  <img src="https://komarev.com/ghpvc/?username=rahkaf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
----
+<!-- Animated Project List -->
+<h2>🚀 What I'm Working On</h2>
+<ul>
+  <li><img src="https://img.icons8.com/color/20/000000/artificial-intelligence.png"/> OpenCV-based <b>Facial Recognition Model (CNN)</b></li>
+  <li><img src="https://img.icons8.com/doodle/20/000000/airport.png"/> <b>Flight Delay Prediction</b> (competition project)</li>
+  <li><img src="https://img.icons8.com/color/20/000000/robot.png"/> <b>XBOW</b> (GPT-4o API integration)</li>
+  <li><img src="https://img.icons8.com/color/20/000000/chatbot.png"/> <b>LMS Chatbot</b> for student assistance</li>
+</ul>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
-  </a>
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="streamlit" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-</p>
+<!-- Animated Learning List -->
+<h2>🧠 Learning & Improving In</h2>
+<ul>
+  <li><img src="https://img.icons8.com/color/20/000000/pytorch.png"/> PyTorch</li>
+  <li><img src="https://img.icons8.com/color/20/000000/tensorflow.png"/> TensorFlow</li>
+  <li><img src="https://img.icons8.com/color/20/000000/fastapi.png"/> FastAPI</li>
+  <li><img src="https://img.icons8.com/color/20/000000/streamlit.png"/> Streamlit</li>
+  <li><img src="https://img.icons8.com/color/20/000000/pandas.png"/> Pandas</li>
+  <li><img src="https://img.icons8.com/color/20/000000/numpy.png"/> NumPy</li>
+  <li><img src="https://img.icons8.com/color/20/000000/docker.png"/> Deployment: Docker, Hugging Face Spaces</li>
+</ul>
 
----
+<!-- Portfolio and Collaboration Links -->
+<h2>🌐 Explore & Connect</h2>
+<ul>
+  <li>👨‍💻 <a href="https://github.com/rahkaf"><b>View GitHub Portfolio</b></a></li>
+  <li>🤝 Looking to collaborate on <b>AI/ML, Data Science, Automation</b> projects with real-world impact!</li>
+</ul>
 
-<h3 align="left">Support:</h3>
+<!-- Education & Contact -->
+<h2>🎓 Academic & Work</h2>
+<ul>
+  <li>📚 <b>BSCS</b> (specialization: AI/ML)</li>
+  <li>🧑‍💻 <b>Data Science & ML Intern</b> @ BeeNeural Pvt Ltd</li>
+</ul>
+📫 <b>Reach me:</b> rkfmami@gmail.com
+
+<!-- Fun fact animation -->
+<h2>⚡ Fun Fact</h2>
 <p>
-  <a href="https://www.buymeacoffee.com/rahkaf"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy-me-a-coffee" />
-  </a>
-</p><br><br>
+  <img src="https://img.icons8.com/color/24/000000/waves.png"/> When I see a river, I zone out like I’m being hypnotized and go into deep thoughts. 🌊
+</p>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahkaf&show_icons=true&locale=en&layout=compact" alt="rahkaf" /></p>
+<!-- Socials Bounce Animation -->
+<h2 align="left">Connect with me</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/fakhar-imam-zikri" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/fakhar.imam_" target="blank"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" alt="Instagram"/></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahkaf&show_icons=true&locale=en" alt="rahkaf" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahkaf&" alt="rahkaf" /></p>
+<!-- Languages & Tools with small fading icons -->
+<h2>🚦 Languages & Tools</h2>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" />
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+</p>
+
+---
+
+<!-- Support & Buy Me a Coffee Animation -->
+<h2>💛 Support</h2>
+<p>
+  <a href="https://www.buymeacoffee.com/rahkaf"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy-me-a-coffee" /></a>
+</p>
+
+---
+
+<!-- Animated GitHub Stats (slide-in effect via shields.io) -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahkaf&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahkaf&show_icons=true&locale=en" alt="GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahkaf&" alt="GitHub streak stats" />
+</p>
+
+
+
+<!-- Section Fade Animations using Shields.io and Typing SVG -->
+<p align="center">
+  <img src="https://img.shields.io/badge/✨-Inspired_By_AI-blueviolet?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Happy+Coding!;Keep+Exploring!;Let%27s+Transform+Ideas+into+Reality!" />
+</p>
