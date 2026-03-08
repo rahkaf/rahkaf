@@ -27,7 +27,7 @@ class FakharImamZikri:
         self.role = "AI/ML Enthusiast & Data Scientist in the Making"
         self.education = "BSCS with AI/ML Specialization"
         self.experience = "Data Science & ML Intern @ BeeNeural Pvt Ltd"
-        self.location = "Skardu, Gilgit-Baltistan, PK"
+        self.location = "Yasin Ghizer, Gilgit-Baltistan, PK"
         self.email = "rkfmami@gmail.com"
         
     def current_projects(self):
