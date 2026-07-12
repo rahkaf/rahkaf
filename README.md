@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/rahkaf/Facial-Recognition-Model-using-CNN/blob/main/banner.png" alt="banner" width="100%"/>
+  <img src="https://www.magnific.com/vectors/face-recognition-banner" alt="banner" width="100%"/>
 </div>
 
 <h1 align="center">
